@@ -2,7 +2,7 @@
   "name": "ultra-bot-dashboard",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://abdul-malek-110.github.io/whatsapp-ultra-bot-dashboard",
+  "homepage": "https://github.com/Bilal11176/whatsapp-ultra-bot-dashboard.git",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
